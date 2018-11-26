@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * @Description 未考虑TCP粘包的问题
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/15
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.stickpackage.exception.server

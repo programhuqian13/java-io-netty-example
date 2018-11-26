@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * @Description 描述
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/14
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.aio.server

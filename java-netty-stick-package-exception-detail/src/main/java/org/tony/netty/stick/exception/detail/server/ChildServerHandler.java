@@ -9,7 +9,6 @@ import io.netty.handler.codec.string.StringDecoder;
 /**
  * @Description 描述
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/15
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.stick.exception.detail.server

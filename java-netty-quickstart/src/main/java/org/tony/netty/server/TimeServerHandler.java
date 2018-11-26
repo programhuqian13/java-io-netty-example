@@ -11,7 +11,6 @@ import java.util.Date;
  * @Description TimeServerHandler继承自ChannelHandlerAdapter，它用于对网络事件进行读写操作，
  *
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/15
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.server

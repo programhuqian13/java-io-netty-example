@@ -23,7 +23,6 @@ import static io.netty.handler.codec.http.HttpHeaders.setContentLength;
 /**
  * @Description 描述
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/22
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.websocket.server

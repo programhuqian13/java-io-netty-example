@@ -16,7 +16,6 @@ import io.netty.handler.stream.ChunkedWriteHandler;
 /**
  * @Description 描述
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/21
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.http.server

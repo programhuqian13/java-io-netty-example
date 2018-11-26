@@ -19,7 +19,6 @@ import org.tony.netty.google.protobuf.req.SubscribeReqProto;
 /**
  * @Description 描述
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/17
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.google.protobuf.server

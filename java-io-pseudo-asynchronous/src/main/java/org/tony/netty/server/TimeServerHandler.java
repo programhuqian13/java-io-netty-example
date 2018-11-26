@@ -10,7 +10,6 @@ import java.util.Date;
 /**
  * @Description 描述
  * @Version 1.0
- * @Author BF400234
  * @Date 2018/4/26
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.server

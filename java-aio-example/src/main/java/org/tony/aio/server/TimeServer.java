@@ -3,7 +3,6 @@ package org.tony.aio.server;
 /**
  * @Description AIO时间服务器服务端
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/14
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.aio.server

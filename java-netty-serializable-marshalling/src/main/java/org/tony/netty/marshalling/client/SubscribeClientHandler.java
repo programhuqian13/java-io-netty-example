@@ -7,7 +7,6 @@ import org.tony.netty.marshalling.req.SubscribeReq;
 /**
  * @Description 描述
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/18
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.marshalling.client

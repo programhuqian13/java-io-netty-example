@@ -10,7 +10,6 @@ import java.nio.ByteBuffer;
  *          1.不能跨语言，使用java序列化对象不能使用其他语言进行反序列化
  *          2.序列化后的码流太大
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/17
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.serialzable.entity

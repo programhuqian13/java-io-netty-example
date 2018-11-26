@@ -6,7 +6,6 @@ import java.util.Map;
 /**
  * @Description 消息头
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/24
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.agreement.message

@@ -7,7 +7,6 @@ import io.netty.channel.ChannelHandlerContext;
 /**
  * @Description 描述
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/16
  * @ProjectName java-io-netty-example
  * @PackageName org.tony.netty.delimiterbasesframedecoder.client

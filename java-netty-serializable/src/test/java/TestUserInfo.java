@@ -8,7 +8,6 @@ import java.io.ObjectOutputStream;
 /**
  * @Description 描述
  * @Version 1.0
- * @Author xuanyi@baofu.com
  * @Date 2018/5/17
  * @ProjectName java-io-netty-example
  * @PackageName PACKAGE_NAME
